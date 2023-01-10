@@ -1,7 +1,5 @@
 # Merge Sorted Array (Typescript)
 
-## Installation
-
 1. Open a terminal and navigate to the root directory of this project
 2. Run the following command to install TypeScript: 
 ```
